@@ -1,0 +1,15 @@
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+6963c08f50d22d4abfc8e36742104c10  DEBIAN/control
+26dc0077416cdbd264a2dd02e5bd20c8  usr/bin/netflix-firefox
+5a44597fe6249824674684870ca03166  usr/share/applications/netflix-firefox.desktop
+29134e23608d9a9e0439a19b58a67bf3  usr/share/icons/hicolor/128x128/apps/netflix.png
+b234ee4d69f5fce4486a80fdaf4a4263  usr/share/netflix-firefox/LICENSE
+a0f630507fefaa011316b5830d855767  usr/share/netflix-firefox/Makefile
+cc21f5db85721b6abc01f1271da9c1a3  usr/share/netflix-firefox/README.md
+befaba9c5dfc845a248e0d0dc414e175  usr/share/netflix-firefox/xseticon
+584f21274c1c1e1272271c129c9ff450  usr/share/netflix-firefox/xseticon.c
+4a8ca9c8dec6707dcd8b0cf7d67c7b6c  usr/share/netflix-firefox/config/extensions/{f18f0257-10ad-4ff7-b51e-6895edeccfc8}.xpi
+7bd258082cb4f0489606c446a6b0a679  usr/share/netflix-firefox/config/extension-preferences.json
+05927209be37aeb719e87d3f540747e1  usr/share/netflix-firefox/config/extensions.json
+324483c9b72f32b60e1f6022a4cd899e  usr/share/netflix-firefox/config/prefs.js
+953820982126d6cb4ce7574a91cbeb4d  usr/share/netflix-firefox/config/user.js

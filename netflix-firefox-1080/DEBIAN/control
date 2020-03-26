@@ -1,0 +1,11 @@
+Package: netflix-firefox-1080
+Version: 1.0.0-1big5
+Conflicts: netflix-firefox
+Depends: firefox|firefox-esr, x11-utils
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:860
+Description: Open netflix in Firefox like a webapp with extesion to force 1080p resolution
+
